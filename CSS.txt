@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Свадебное Приглашение - Алиса и Михаил</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Приглашение на свадьбу</h1>
+        <p>Алиса и Михаил</p>
+    </header>
+
+    <section class="invitation-details">
+        <h2>Дорогая Татьяна Григорьевна!</h2>
+        <p>Мы приглашаем вас на самое главное торжество нашей жизни — наш Первый Семейный Праздник, на котором мы соединим наши судьбы и наши сердца.</p>
+        <p>Дата: 18 Июля 2025 года</p>
+        <p>Место проведения: Ресторан «Аршин»</p>
+        <p>Адрес: Осташковский проезд, 8с2, 16:00 ч.</p>
+    </section>
+
+    <section class="links">
+        <a href="https://yandex.ru/maps/-/CHuo6BmJ" target="_blank">Карта Места</a>
+        <a href="https://forms.yandex.ru/cloud/67befe6290fa7b779fc7856c/" target="_blank">Подтвердить Присутствие</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Свадебное Приглашение</p>
+    </footer>
+</body>
+</html>
